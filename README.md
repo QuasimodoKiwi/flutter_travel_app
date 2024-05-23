@@ -1,6 +1,8 @@
-# super_boss_project_connor_must_die_difficulty
+# flutter_travel_app
 
-A new Flutter project.
+This application was made for an assignment in CSET-270. This application's purpose is to mockup a travel-app, and has no functionality. 
+
+To view the pages, using Android Studio, you may need to use the Android Pixel 6 API 34 and run each pages individually.
 
 ## Getting Started
 
